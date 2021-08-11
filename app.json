@@ -1,6 +1,6 @@
 {
-  "name": "بـوت جـمثون",
-  "description": "بـوت جمثون العربي الاول في الشرق الأوسط السورس مجاني لا يخدعك أحد في تنصيب - قناة السورس @JMTHON ",
+  "name": "بـوت سبيد",
+  "description": "سورس سبيد تجربه ",
   "logo": "https://telegra.ph/file/e39d02603863669b09c4d.jpg",
   "keywords": [
     "plugin",
@@ -12,7 +12,7 @@
   "success_url": "#TODO",
   "env": {
     "ALIVE_NAME": {
-      "description": "هـنا ضع اسم حسابك الخاص بالتلي",
+      "description": "اسم الحساب ",
       "value": ""
     },
     "APP_ID": {
